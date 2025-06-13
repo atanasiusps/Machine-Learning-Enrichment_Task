@@ -1,13 +1,12 @@
-
-*Rangkuman Repository* <br>
+**Rangkuman Repository** <br>
 Repositori ini berisi solusi dan implementasi latihan-latihan dalam buku karya Aurélien Géron, "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd edition."<br>
 <br>
 
-*Tujuan*<br>
+**Tujuan**<br>
 tujuan dari repositori ini adalah untuk memenuhi nilai mata kuliah Machine Learning. Repositori ini mencakup implementasi kode untuk latihan yang ditemukan di akhir setiap bab, serta kode dari dalam bab-bab pada buku.<br>
 <br>
 
-*Ringkasan Singkat Isi Buku*: <br>
+**Ringkasan Singkat Isi Buku**: <br>
 Part I: The Fundamentals of Machine Learning<br>
 - Chapter 1: The Machine Learning Landscape:  Pengenalan konsep-konsep inti Machine Learning, kategori utamanya (supervised, unsupervised, dll.), dan tantangan utama seperti overfitting dan underfitting.<br>
 - Chapter 2: End-to-End Machine Learning Project: Proyek Machine Learning End-to-End: Panduan praktis melalui sebuah proyek ML lengkap, mulai dari membingkai masalah dan mendapatkan data hingga fine-tuning dan meluncurkan model.<br>
@@ -18,7 +17,7 @@ Part I: The Fundamentals of Machine Learning<br>
 - Chapter 7: Ensemble Learning and Random Forests: Membahas metode untuk menggabungkan beberapa model (ensemble) untuk mencapai performa yang lebih baik, termasuk bagging, pasting, boosting, stacking, dan pembahasan mendalam tentang Random Forest.<br>
 - Chapter 8: Dimensionality Reduction: Mengatasi "kutukan dimensionalitas" (curse of dimensionality) dengan teknik-teknik seperti PCA, Kernel PCA, dan LLE untuk mengurangi jumlah fitur dalam dataset.<br>
 - Chapter 9: Unsupervised Learning Techniques:  Menjelajahi metode unsupervised seperti clustering (K-Means, DBSCAN), Gaussian Mixture Models, dan aplikasinya dalam deteksi anomali dan estimasi kepadatan.<br>
-
+<br>
 
 Part II: Neural Networks and Deep Learning<br>
 - Chapter 10: Introduction to Artificial Neural Networks with Keras: Pengenalan praktis tentang JST (Jaringan Saraf Tiruan) dan membangun model menggunakan Keras API yang sederhana dan kuat.<br>
@@ -33,7 +32,7 @@ Part II: Neural Networks and Deep Learning<br>
 - Chapter 19:  Training and Deploying TensorFlow Models at Scale: Panduan praktis untuk menerapkan model TensorFlow ke lingkungan produksi dan meningkatkan skala pelatihan di berbagai perangkat dan server.<br>
 <br>
 
-*Teknologi yang Digunakan* :<br>
+**Teknologi yang Digunakan** :<br>
 - Python 3.x<br>
 - Jupyter Notebook<br>
 - TensorFlow 2<br>
