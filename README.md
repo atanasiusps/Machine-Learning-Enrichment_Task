@@ -1,5 +1,5 @@
 
-*Rangkuman Repository*
+*Rangkuman Repository* <br>
 Repositori ini berisi solusi dan implementasi latihan-latihan dalam buku karya Aurélien Géron, "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd edition."
 
 *Tujuan*
