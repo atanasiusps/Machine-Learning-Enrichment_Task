@@ -2,10 +2,10 @@
 *Rangkuman Repository* <br>
 Repositori ini berisi solusi dan implementasi latihan-latihan dalam buku karya Aurélien Géron, "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd edition."
 
-*Tujuan*
+*Tujuan*<br>
 tujuan dari repositori ini adalah untuk memenuhi nilai mata kuliah Machine Learning. Repositori ini mencakup implementasi kode untuk latihan yang ditemukan di akhir setiap bab, serta kode dari dalam bab-bab pada buku.
 
-*Ringkasan Singkat Isi Buku*:
+*Ringkasan Singkat Isi Buku*: <br>
 Part I: The Fundamentals of Machine Learning
 Chapter 1: The Machine Learning Landscape:  Pengenalan konsep-konsep inti Machine Learning, kategori utamanya (supervised, unsupervised, dll.), dan tantangan utama seperti overfitting dan underfitting.
 Chapter 2: End-to-End Machine Learning Project: Proyek Machine Learning End-to-End: Panduan praktis melalui sebuah proyek ML lengkap, mulai dari membingkai masalah dan mendapatkan data hingga fine-tuning dan meluncurkan model.
