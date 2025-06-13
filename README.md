@@ -13,12 +13,13 @@ Part I: The Fundamentals of Machine Learning<br>
 - Chapter 2: End-to-End Machine Learning Project: Proyek Machine Learning End-to-End: Panduan praktis melalui sebuah proyek ML lengkap, mulai dari membingkai masalah dan mendapatkan data hingga fine-tuning dan meluncurkan model.<br>
 - Chapter 3: Classification: Pembahasan mendalam tentang tugas klasifikasi, metrik performa, dan algoritma umum menggunakan dataset MNIST sebagai studi kasus.<br>
 - Chapter 4: Training Models: Menjelajahi berbagai teknik pelatihan model, termasuk Regresi Linier, Gradient Descent (Batch, Stochastic, Mini-batch), Regresi Polinomial, dan model yang diregularisasi seperti Ridge, Lasso, dan Elastic Net.<br>
--Chapter 5: Support Vector Machines (SVMs): Detail mengenai SVM untuk klasifikasi dan regresi linear maupun non-linear, termasuk konsep seperti soft margin, kernel, dan matematika di baliknya.<br>
+- Chapter 5: Support Vector Machines (SVMs): Detail mengenai SVM untuk klasifikasi dan regresi linear maupun non-linear, termasuk konsep seperti soft margin, kernel, dan matematika di baliknya.<br>
 - Chapter 6: Decision Trees: Meliputi cara melatih, memvisualisasikan, dan membuat prediksi dengan Decision Tree, termasuk algoritma CART dan teknik regularisasi.<br>
 - Chapter 7: Ensemble Learning and Random Forests: Membahas metode untuk menggabungkan beberapa model (ensemble) untuk mencapai performa yang lebih baik, termasuk bagging, pasting, boosting, stacking, dan pembahasan mendalam tentang Random Forest.<br>
 - Chapter 8: Dimensionality Reduction: Mengatasi "kutukan dimensionalitas" (curse of dimensionality) dengan teknik-teknik seperti PCA, Kernel PCA, dan LLE untuk mengurangi jumlah fitur dalam dataset.<br>
 - Chapter 9: Unsupervised Learning Techniques:  Menjelajahi metode unsupervised seperti clustering (K-Means, DBSCAN), Gaussian Mixture Models, dan aplikasinya dalam deteksi anomali dan estimasi kepadatan.<br>
-<br>
+
+
 Part II: Neural Networks and Deep Learning<br>
 - Chapter 10: Introduction to Artificial Neural Networks with Keras: Pengenalan praktis tentang JST (Jaringan Saraf Tiruan) dan membangun model menggunakan Keras API yang sederhana dan kuat.<br>
 - Chapter 11: Training Deep Neural Networks: Teknik dan praktik terbaik untuk melatih deep neural network, mengatasi tantangan seperti vanishing/exploding gradients.<br>
